@@ -1,10 +1,5 @@
 
 body {
-    div {
-height: 200px;
 background: radial-gradient(at top, #FEFFFF, #A7CECC);
-}
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 <body>
