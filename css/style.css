@@ -1,5 +1,5 @@
-
-body {
-background: radial-gradient(at top, #FEFFFF, #A7CECC);
+div {
+height: 200px;
+background: linear-gradient(to top left, powderblue, pink);
 }
-<body>
+
