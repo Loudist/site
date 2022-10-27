@@ -2,11 +2,11 @@ body{
 height: 200px;
 background: linear-gradient(to top left, #352A3B, #330E0E) fixed;
   
-  IMG.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
-  
-<IMG class="displayed" url('../img/logo.png')>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 }
 
