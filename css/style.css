@@ -2,6 +2,5 @@ body{
   
 height: 200px;
 background: linear-gradient(to top left, #352A3B, #330E0E), url('../img/logo.png') fixed;
-background-size: cover;
 
 }
