@@ -1,6 +1,9 @@
 body{
-  
-height: 200px;
-background: linear-gradient(to top left, #352A3B, #330E0E), url('../img/logo.png') fixed;
+
+  div {
+  height: 453px;
+  background: linear-gradient(to top left, #352A3B, #330E0E), url('../img/logo.png'); 
+  background-size: cover;
+}
 
 }
